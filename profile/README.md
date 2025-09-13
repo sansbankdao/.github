@@ -23,9 +23,10 @@ Sansbank uses industry-leading encryption technology to store your information l
 
 ## 🛖 Repos
 
+* [EvoNext](https://github.com/sansbankdao/evonext-app) - Decentralized Social Network
 * [DashSwap](https://github.com/sansbank/dashswap) - Decentralized Exchange + Launchpad (DEX)
-* [DashQt](https://github.com/sansbank/dashqt) - EVM App Execution Layer
 * [Dash USD]() - Algorithmic + Agentic Dash Stablecoin
+* [DashQt](https://github.com/sansbank/dashqt) - EVM App Execution Layer
 * [Dash Limo]() - Consumer Payments IRL
 
 
@@ -35,7 +36,7 @@ Sansbank uses industry-leading encryption technology to store your information l
 * Website: https://sansbank.org
 * X: https://x.com/SansbankDAO
 * Support: https://sansbank.org/help
-* Developer Docs: https://docs.sansbank.org
+* Developer Guides: https://sansbank.org/readme
 * Open Positions: https://sansbank.org/jobs
 
 ## 🙋‍♂️ We're Hiring!
