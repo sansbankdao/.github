@@ -1,13 +1,13 @@
 # Sansbank DAO
 
-![Twitter/X Banner](img/banner.webp)
+![Sansbank DAO Poster](img/poster.webp)
 
 ### https://sansbank.org
 
 
-#### Building for the DASH Evolution
+#### Empowering a Bank-Free Future
 
-TBD
+Sansbank DAO is at the forefront of the DASH Evolution — driving Platform innovations in developer tooling and scalability to bring a decentralized economy to every individual worldwide.
 
 #### 🗳️ Your crypto, in your hands
 
